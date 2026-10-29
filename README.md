@@ -43,15 +43,7 @@ Gerente de Operaciones
 ## Experiencia profesional {#experiencia}
 
 ### **[COMPLETAR: Cargo]** · [COMPLETAR: Empresa]
-*[COMPLETAR: MM/AAAA] – [COMPLETAR: MM/AAAA o Actualidad] · [COMPLETAR: Ciudad]*
 
-- [COMPLETAR: Verbo de acción + qué hiciste + resultado medible]
-- [COMPLETAR]
-
-### **[COMPLETAR: Cargo]** · [COMPLETAR: Empresa]
-*[COMPLETAR: Fechas] · [COMPLETAR: Ciudad]*
-
-- [COMPLETAR]
 
 ---
 
